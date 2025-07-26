@@ -13,7 +13,7 @@ export default function App() {
   const hideSplash = useCallback(async () => {
     if (!isWebViewLoaded) {
       setIsWebViewLoaded(true);
-      await new Promise(resolve => setTimeout(resolve, 500)); // delay to show logo
+      await new Promise(resolve => setTimeout(resolve, 2000)); // delay to show logo
       await SplashScreen.hideAsync();
     }
   }, [isWebViewLoaded]);
