@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ModconApp",
-    "slug": "ModconApp",
+    "slug": "modconapp-7xh6tn0w8k7tl3ddhva8",
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["android"],
@@ -22,7 +22,7 @@
     "sdkVersion": "50.0.0",
     "extra": {
       "eas": {
-        "projectId": "9dbcb692-2ef3-4916-b8fe-f10be2add5ec"
+        "projectId": "707f1614-5947-478e-9ad4-749cac472fc0"
       }
     }
   }
