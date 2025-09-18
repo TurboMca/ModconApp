@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ModconApp",
+    "name": "JacksApp",
     "slug": "modconapp-7xh6tn0w8k7tl3ddhva8",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,3 +27,4 @@
     }
   }
 }
+
