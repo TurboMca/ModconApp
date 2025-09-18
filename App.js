@@ -55,7 +55,7 @@ export default function App() {
           {!hasError && (
             <WebView
               key={reloadKey}
-              source={{ uri: 'https://app.modconelectromech.com/Identity/Account/Login?companyCode=MOD' }}
+              source={{ uri: 'https://enelistrainfotech.pythonanywhere.com' }}
               style={{ flex: 1 }}
               onLoadEnd={handleLoadEnd}
               onError={handleError}
