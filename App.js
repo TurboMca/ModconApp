@@ -55,7 +55,7 @@ export default function App() {
           {!hasError && (
             <WebView
               key={reloadKey}
-              source={{ uri: 'https://enelistrainfotech.pythonanywhere.com' }}
+              source={{ uri: 'https://enelistrainfotech.pythonanywhere.com/staff/login/' }}
               style={{ flex: 1 }}
               onLoadEnd={handleLoadEnd}
               onError={handleError}
